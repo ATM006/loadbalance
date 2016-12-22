@@ -9,4 +9,4 @@ conn.o:conn.cpp struct.h
 
 
 clean:
-	rm edit conn.o main.o 
+	rm *.o 
